@@ -1,0 +1,27 @@
+{
+  "name": "IDGS102",
+  "short_name": "NubeColectiva",
+  "start_url": "/index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#153462",
+  "theme_color": "#B73E3E",
+  "description": "Practica Manifest",
+  "orientation": "portrait",
+  "icons": [{
+    "src": "img/baseball-ga602327b8_1280.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  },
+  {
+    "src": "img/baseball-glove-g4202ac720_1280.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  },
+  {
+    "src": "img/baseball-cap-gd304e941b_640.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }
+  ]
+}
